@@ -13,7 +13,8 @@ namespace App_201704
         {
             InitializeComponent();
 
-            MainPage = new App_201704.MainPage();
+            //MainPage = new App_201704.MainPage();
+            MainPage = new App_201704.UsersPage();
         }
 
         protected override void OnStart()
